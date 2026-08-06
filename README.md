@@ -5,5 +5,7 @@ This is a birdhouse I created on OnShape! It is meant to be *simple*, *affordabl
 
 #### OnShape link: https://cad.onshape.com/documents/953964dcabd747a290836e89/w/6a0017c3c859468445897323/e/516761457e6f236444b89186
 
+#### BOM:
+Bambu Lab Silver PLA Basic (or preferred color)
 <img width="332" height="415" alt="Screenshot 2026-06-29 132715" src="https://github.com/user-attachments/assets/5d069627-ec08-46bb-88b1-e63143f0b3b5" />
 <img width="535" height="683" alt="Screenshot 2026-06-29 132821" src="https://github.com/user-attachments/assets/25a42c8e-9768-4e40-85c7-28dc22d7bd2c" />
