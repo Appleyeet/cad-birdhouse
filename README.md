@@ -3,11 +3,10 @@ This is a birdhouse I created on OnShape! It is meant to be *simple*, *affordabl
 
 <img width="4032" height="3024" alt="IMG_8726 (1) (2)" src="https://github.com/user-attachments/assets/dbaf0e50-4b65-4931-a514-826e24dea1b9" />
 
-
 ### Research: https://docs.google.com/presentation/d/1r9iMDllixTGb4qOweLX61TxU3u91wn02/edit?usp=sharing&ouid=113439871893499618500&rtpof=true&sd=true
 
 #### OnShape link: https://cad.onshape.com/documents/953964dcabd747a290836e89/w/6a0017c3c859468445897323/e/516761457e6f236444b89186
-
+#### Printables link: https://www.printables.com/make/3551355
 #### BOM:
 Bambu Lab Silver PLA Basic (or preferred color)
 
